@@ -1,3 +1,7 @@
+# DEPRECATED
+Angel 2's version of `package:angel_static` includes range header support out-of-the-box, rather than requiring a separate
+package.
+
 # range
 [![Pub](https://img.shields.io/pub/v/angel_range.svg)](https://pub.dartlang.org/packages/angel_range)
 [![build status](https://travis-ci.org/angel-dart/range.svg)](https://travis-ci.org/angel-dart/range)
